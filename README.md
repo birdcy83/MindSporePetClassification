@@ -1,0 +1,2 @@
+# MindSporePetClassification
+基于MindSpore框架的猫狗识别ai应用
